@@ -7,7 +7,7 @@ Arduino Uno
 Câbles
 Smartphone Android**
 ## Application Android
-L'application à été construite à l'aide de MIT App Inventor.  
+L'application a été construite à l'aide de MIT App Inventor.  
 Son code est disponible sous le fichier [EgusApp.aia](https://github.com/codeugo/egus/blob/main/EgusApp.aia).
 ### Fonctions
 *Bouge l'axe X et Y de la pince grâce au gyroscope du téléphone;  
