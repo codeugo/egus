@@ -1,5 +1,5 @@
 # ![plot](./Pictures/egus48.png) 🦾 Bras robotisé contrôlable à l'aide d'un smartphone
-![plot](./Pictures/MeArm4502.png) MeArm 4502 contrôlable à l'aide du gyroscope d'un smartphone Android à destination des handicapés.
+![plot](./Pictures/MeArm4502.png) ![plot](./Pictures/screenapp.png)  MeArm 4502 contrôlable à l'aide du gyroscope d'un smartphone Android à destination des handicapés.
 ## Outils
 **MeArm 4502  
 Arduino Uno  
