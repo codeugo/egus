@@ -16,8 +16,8 @@ Boutons permettant de changer précisément les valeurs des servomoteurs;*
 ## Code Arduino
 Le code est disponible sous le fichier [EgusArduino.ino](https://github.com/codeugo/egus/blob/main/EgusArduino.ino).
 ### Pin Servomoteur et Bluetooth
-Servomoteur milieu -> 11
-Servomoteur gauche -> 10
-Servomoteur droit -> 9
-Servomoteur pince -> 8
-Bluetooth -> TX et RX
+Servomoteur milieu -> 11  
+Servomoteur gauche -> 10  
+Servomoteur droit -> 9  
+Servomoteur pince -> 8  
+Bluetooth -> TX et RX  
